@@ -1,5 +1,4 @@
-# VBA_challenge
-HW2 homework
+# The VBA of Wall Street - VBA Scripts
 
 
 These two VBScript files serve the same purpose: to loop through the 
